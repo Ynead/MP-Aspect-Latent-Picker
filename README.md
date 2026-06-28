@@ -12,6 +12,10 @@ A simple ComfyUI custom node designed to streamline latent generation and dimens
 
 ### 1. Scale From Preset
 Scale down or up from your selected base aspect ratio using a simple multiplier.
+<img width="798" height="662" alt="image" src="https://github.com/user-attachments/assets/43fcc7bf-6bf7-48cf-8b93-6c4e381dd51c" />
+
 
 ### 2. Megapixels
-Automatically calculate and match the aspect ratio dimensions tailored to a target megapixel limit (e.g., targeting a 4.00 MP generation limit).
+Automatically calculate and match the aspect ratio dimensions tailored to a target megapixel limit.
+<img width="685" height="639" alt="image" src="https://github.com/user-attachments/assets/89c2a637-2c21-4e72-97eb-6b38fbc2a5ef" />
+
